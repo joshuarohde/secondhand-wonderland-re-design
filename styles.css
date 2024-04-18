@@ -1,3 +1,8 @@
+body{background-color: #f0f8fb;}
+
+
+
+
 .bg-primary {
     background-color: #F1592A !important;
 }
@@ -15,3 +20,18 @@ a.text-primary:hover{
     color: #FBA830 !important;
 }
 
+.btn-primary{
+    background-color: #F1592A !important;
+    border-color: #F4852C !important;
+    color: rgb(255, 255, 255) !important; 
+}
+.btn-primary:hover{
+    background-color: #FBA830 !important;
+    border-color: #F4852C !important;
+    color: rgb(255, 255, 255) !important; 
+}
+
+.mx-6{
+    margin-left: 7vw;
+    margin-right: 7vw;
+}
