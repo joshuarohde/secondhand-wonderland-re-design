@@ -1,0 +1,17 @@
+.bg-primary {
+    background-color: #F1592A !important;
+}
+
+a.bg-primary:hover{
+    background-color: #FBA830 !important;
+}
+
+
+
+.text-primary {    color: #F1592A !important;
+}
+
+a.text-primary:hover{
+    color: #FBA830 !important;
+}
+
