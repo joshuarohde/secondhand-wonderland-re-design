@@ -12,3 +12,6 @@ Started by making my files and adding a template with Bootstrap, jQuery, and Ani
 
 3:54 : I got some other pages ready and got a good more work done of the home page.
 
+**04/20/24**
+
+1:54 : Im going to add hours and in general just work on the home page.
