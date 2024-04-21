@@ -22,3 +22,7 @@ Started by making my files and adding a template with Bootstrap, jQuery, and Ani
 20:51 : I can't believe it but the "how to sell" is done. Very simple
 
 21:40 : Working on making a dropdown system for the "What We Buy"
+
+**04/21/24**
+
+1:17 : I'm done!  YAY!
