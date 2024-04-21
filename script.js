@@ -1,9 +1,9 @@
 
 $(document).ready(function(){
     $(".btn").hover(function(){
-        $(this).addClass("animate__animated animate__pulse  animate__faster animate__infinite");
+        $(this).addClass("animate__animated animate__pulse  animate__faster animate__3");
     }, function(){
-        $(this).removeClass("animate__animated animate__pulse animate__faster animate__infinite");
+        $(this).removeClass("animate__animated animate__pulse animate__faster animate__3");
     });
 
     $("#soldBeforeYes").click(function() {
@@ -25,6 +25,8 @@ $(document).ready(function(){
             $("#notSoldBeforeDiv").hide();
         }
     });
+
+
 });
 
 

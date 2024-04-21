@@ -54,8 +54,19 @@ a.text-primary:hover{
     color: rgb(255, 255, 255) !important; 
 }
 
+.btn-secondary{
+background-color: rgba(0, 0, 0, 0.059);
+color: black;
+}
+
+
 .mx-6{
     margin-left: 7vw;
     margin-right: 7vw;
+}
+
+.collapse {
+    height: auto; /* Set the height to 20vw */
+    overflow: auto; /* Add overflow for scrolling if content exceeds height */
 }
 

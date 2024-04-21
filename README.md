@@ -5,18 +5,20 @@ Re-design for Regina's Secondhand Wonderland
 
 Started by making my files and adding a template with Bootstrap, jQuery, and Animate.css
 
-1:37 : Dealing with isses of trying to chnage the button hover colour. Trying to find a way online.
+13:37 : Dealing with isses of trying to chnage the button hover colour. Trying to find a way online.
 
-1:48 : Found out what the problem is. Moving onto the content areas.
+13:48 : Found out what the problem is. Moving onto the content areas.
 
-3:54 : I got some other pages ready and got a good more work done of the home page.
+15:54 : I got some other pages ready and got a good more work done of the home page.
 
 **04/20/24**
 
-1:54 : Im going to add hours and in general just work on the home page.
+13:54 : Im going to add hours and in general just work on the home page.
 
-2:57 : Added More information and added more for contacts and testamontials. This was needed in helping potential customers want to check them out.
+14:57 : Added More information and added more for contacts and testamontials. This was needed in helping potential customers want to check them out.
 
-6:31 : I added some more photos, and I added socials that you can click on. I also added a jumping aninimation to the main buttons
+18:31 : I added some more photos, and I added socials that you can click on. I also added a jumping aninimation to the main buttons
 
-8:51 : I can't believe it but the "how to sell" is done. Very simple
+20:51 : I can't believe it but the "how to sell" is done. Very simple
+
+21:40 : Working on making a dropdown system for the "What We Buy"
