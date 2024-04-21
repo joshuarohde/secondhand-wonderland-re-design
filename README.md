@@ -2,6 +2,7 @@
 Re-design for Regina's Secondhand Wonderland
 
 **04/18/24**
+
 Started by making my files and adding a template with Bootstrap, jQuery, and Animate.css
 
 1:37 : Dealing with isses of trying to chnage the button hover colour. Trying to find a way online.
@@ -17,3 +18,5 @@ Started by making my files and adding a template with Bootstrap, jQuery, and Ani
 2:57 : Added More information and added more for contacts and testamontials. This was needed in helping potential customers want to check them out.
 
 6:31 : I added some more photos, and I added socials that you can click on. I also added a jumping aninimation to the main buttons
+
+8:51 : I can't believe it but the "how to sell" is done. Very simple

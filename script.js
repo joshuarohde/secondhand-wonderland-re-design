@@ -5,6 +5,26 @@ $(document).ready(function(){
     }, function(){
         $(this).removeClass("animate__animated animate__pulse animate__faster animate__infinite");
     });
+
+    $("#soldBeforeYes").click(function() {
+        if ($(this).is(":checked")) {
+            $("#soldBeforeDiv").show();
+            $("#notSoldBeforeDiv").hide();
+            $("#soldBeforeNo").prop("checked", false);
+        } else {
+            $("#soldBeforeDiv").hide();
+        }
+    });
+
+    $("#soldBeforeNo").click(function() {
+        if ($(this).is(":checked")) {
+            $("#notSoldBeforeDiv").show();
+            $("#soldBeforeDiv").hide();
+            $("#soldBeforeYes").prop("checked", false);
+        } else {
+            $("#notSoldBeforeDiv").hide();
+        }
+    });
 });
 
 
