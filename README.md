@@ -15,3 +15,5 @@ Started by making my files and adding a template with Bootstrap, jQuery, and Ani
 1:54 : Im going to add hours and in general just work on the home page.
 
 2:57 : Added More information and added more for contacts and testamontials. This was needed in helping potential customers want to check them out.
+
+6:31 : I added some more photos, and I added socials that you can click on
